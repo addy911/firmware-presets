@@ -1048,14 +1048,14 @@
     },
     {
       "fullPath": "presets/4.3/rates/BubbleGumBasher.txt",
-      "hash": "d2b795830f95707a14354dfad878d2142d06f9a92c227c61964bc2f3f7aeff74",
+      "hash": "b473119cf4d008ab7769f05765489467db7e17b4c57898e058a84cbb9a1da73c",
       "options": [
         {
           "name": "Actual rates analogue",
           "checked": false
         }
       ],
-      "title": "Clinton Jagger rates",
+      "title": "FlapJack FPV BubbleGumBasher",
       "firmware_version": [
         "4.3"
       ],
