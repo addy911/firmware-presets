@@ -1,4 +1,4 @@
-#$ TITLE: FlapJack FPV BubbleGumBasher
+#$ TITLE: FlapJack FPV
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY

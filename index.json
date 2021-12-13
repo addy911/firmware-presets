@@ -1048,14 +1048,14 @@
     },
     {
       "fullPath": "presets/4.3/rates/BubbleGumBasher.txt",
-      "hash": "b473119cf4d008ab7769f05765489467db7e17b4c57898e058a84cbb9a1da73c",
+      "hash": "59e156a0155e956f331ea474db7f3d2520d95cd7a1d4f58412a0b4021be06cdc",
       "options": [
         {
           "name": "Actual rates analogue",
           "checked": false
         }
       ],
-      "title": "FlapJack FPV BubbleGumBasher",
+      "title": "FlapJack FPV",
       "firmware_version": [
         "4.3"
       ],
