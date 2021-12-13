@@ -3,7 +3,7 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: BubbleGum Basher
-#$ AUTHOR: Clinton Jagger
+#$ AUTHOR: FlapJack FPV
 #$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.
 #$ DESCRIPTION: The OG BuBbLeGuM_BaShEr.
 #$ DESCRIPTION: FlapJack FPV
